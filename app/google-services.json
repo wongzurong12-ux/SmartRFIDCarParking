@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "118342955255",
+    "project_id": "rfidcarpark",
+    "storage_bucket": "rfidcarpark.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:118342955255:android:a4bb8dae220a9d692ba3f2",
+        "android_client_info": {
+          "package_name": "my.edu.tarc.carpark"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDR5k5B3_0-NB1bZpdg9vbVB2NEM94HIv4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
